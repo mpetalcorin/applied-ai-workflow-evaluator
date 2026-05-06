@@ -7,9 +7,9 @@ Human-in-the-Loop AI Workflow Evaluator
 
 ## Application relevance
 
-This app supports my application for Applied AI Scientist roles by demonstrating that my biomedical and scientific AI experience is transferable to operational analytical environments.
+This app demonstrates that biomedical and scientific AI experience is transferable to operational analytical environments.
 
-Although much of my evidence base comes from biomedical and scientific AI, the underlying skills are directly transferable to high-stakes AI workflows. I am used to working with noisy, incomplete, heterogeneous, and high-dimensional data, where models must support human judgement rather than replace it.
+Although the training comes from biomedical and scientific AI, the underlying skills are directly transferable to high-stakes AI workflows, working similarly with noisy, incomplete, heterogeneous, and high-dimensional data, where models must support human judgement rather than replace it.
 
 ## What the app demonstrates
 
